@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Introductie"
+date:   2015-01-16 01:30:00
+categories:
+published: true
+---
+
+De fietsinfrastructuur in Vlaanderen is heel gevarieerd. Soms rij je over een parel van een fietssnelweg, maar even verderop kan je even goed plots moeten slalommen tussen putten, absurde wegmarkeringen en vrachtwagens.
+
+
+# Meldpunt
+
+Wanneer je een probleem wil melden kan je terecht bij het <a href="http://www.meldpuntfietspaden.be">Meldpunt Fietspaden</a>. Een nobel initiatief, waarmee je centraal iets kan melden en waarna het doorgestuurd wordt naar de bevoegde diensten. Die diensten zijn echter even gevarieerd als de fietsinfrastructuur zelf. Soms krijg je antwoord, soms ook niet. Sommige diensten houden je op de hoogte van eventuele vooruitgang, sommigen ook niet.
+
+Ook is de website op z'n zachtst gezegd nogal omslachtig in gebruik. In tijden van geolocatie, ingebouwde camera's, online kaarten etc, kan het veel eenvoudiger.
+
+Het grootste probleem van het meldpunt is echter dat het vaak een <strong>zwart gat</strong> is:  Anderen kunnen ook jouw meldingen niet raadplegen, en moeten dus dezelfde moeite doen. En last but not least: zonder publiek overzicht is het moeilijk om druk te zetten op de politiek om ook werkelijk een coherent beleid uit te werken.
+
+Dat kan dus beter. En aangezien de overheid best wel <a href="http://www.n-va.be/persbericht/daling-meldingen-over-slechte-fietspaden-blijven-inzetten-op-onderhoud-fietspaden">tevreden lijkt te zijn</a> met het huidige meldpunt, heb ik besloten om zelf initiatief te nemen.
+
+
+# Doelstellingen
+
+- Meldpunt voor problemen met fietsinfrastructuur
+- Publiek raadpleegbare, overzichtelijke kaart
+- Eenvoudig meldingen toevoegen vanop smartphone of web
+- Mogelijkheid tot opvolging, geïnspireerd door bug-tracking systemen
+- Posten naar het <a href="http://www.meldpuntfietspaden.be">Meldpunt Fietspaden</a>
+- Open source, open data
+
+
+# Wie? Hoe?
+
+Voorlopig is dit mijn goede voornemen voor 2015, maar als je ervaring hebt met webontwikkeling (frontend of backend) en je hebt zin om tijdens een hackathon een proof-of-concept te helpen uitwerken, <a href="http://twitter.com/lieven">let me know</a>!
