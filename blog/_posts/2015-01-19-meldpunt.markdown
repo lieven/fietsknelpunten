@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Meldpunt Fietspad-meldpunt"
+date:   2015-01-19 23:15:00
+categories:
+published: true
+---
+Ik zal maar meteen toegeven dat ik zelf nog niet vaak gebruik gemaakt heb van het Meldpunt Fietspaden. Ik fiets meestal in Gent, en dan is het gewoon veel gemakkelijker en directer om <a href="https://twitter.com/search?f=realtime&amp;q=from%3Alieven%20to%3Astadgent&amp;src=typd">even te tweeten</a>.
+
+Ter vergelijking, dit is hoe het gaat via de <a href="http://www.n-va.be/persbericht/daling-meldingen-over-slechte-fietspaden-blijven-inzetten-op-onderhoud-fietspaden">nieuwe</a> mobiele versie van het Meldpunt Fietspaden:
+
+### "Welkom"
+
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt01.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt01.jpg" alt="Meldpunt: startpagina" /></a>
+
+- Positief: als je reeds een melding hebt gedaan hoef je enkel je email-adres in te vullen.
+- Minder positief: als iemand vunzige foto's in jouw naam wil doorsturen naar de wegbeheerder hoeft ie enkel je email-adres te weten.
+- Geen mogelijkheid om aangemeld te blijven om later nog meldingen te doen.
+
+
+### Stap 1, deel 1: Gemeente kiezen
+
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt02.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt02.jpg" alt="Meldpunt: gemeente" /></a>
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt03.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt03.jpg" alt="Meldpunt: gemeente" /></a>
+
+- Of je mobieltje nu een GPS heeft ingebouwd of niet, je moet manueel de gemeente aanduiden.
+- Erger: zoeken naar je gemeente door bv. de eerste letters te beginnen typen is niet mogelijk. Je moet scrollen.
+- Zullen we maar blij zijn dat de lijst van gemeentes opgesplitst is per provincie en gesorteerd is op alfabet?
+
+### Stap 1, deel 2: Lokalisatie met GPS
+
+Eens je gemeente gekend is en je bent ter plaatse kan je plots wel jet GPS gebruiken om de locatie exact te bepalen:
+
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt04.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt04.jpg" alt="Meldpunt: GPS" /></a>
+
+Nadat je toestemming hebt gegeven om je locatie te gebruiken krijg je dit te zien:
+
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt05.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt05.jpg" alt="Meldpunt: GPS resultaat " /></a>
+
+Niet meteen duidelijk dat er iets is gebeurd, toch? Dan maar op "BEKIJK POSITIE OP KAART" tikken, wie weet...
+
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt06.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt06.jpg" alt="Meldpunt: Bekijk op kaart - Alert" /></a>
+
+Euh, ja hoor, ik had toch al toestemming gegeven?
+
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt07.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt07.jpg" alt="Meldpunt: Bekijk op kaart" /></a>
+
+Aha, resultaat!
+
+Jammer genoeg aan de overkant van't water. GPS-signalen worden in de stad nu eenmaal soms gehinderd door gebouwen. Begrijpelijk.
+
+"Geen nood", ik versleep het pinnetje wel gewoon.
+
+Nope, niet mogelijk... Zucht... Back, back.
+
+
+### Stap 1, deel 2, poging 2: Lokalisatie met straatnaam
+
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt08.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt08.jpg" alt="Meldpunt: Straatnaam" /></a>
+
+Opnieuw zo'n lijst om door te scrollen, maar deze keer met <em>alle straatnamen van Gent</em>. Je zou van minder RSI krijgen.
+
+Eens de straat gevonden valt het wel mee. Veel mogelijkheden en vrijheid om duidelijk te maken waar het knelpunt zich precies bevindt:
+
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt09.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt09.jpg" alt="Meldpunt: lokalisatie" /></a>
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt10.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt10.jpg" alt="Meldpunt: lokalisatie" /></a>
+
+Maar geef toe, een pinnetje slepen op een kaart was misschien handiger geweest :)
+
+
+### Stap 2: probleembeschrijving
+
+Niets mis mee, functioneel en eenvoudig:
+
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt11.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt11.jpg" alt="Meldpunt: probleembeschrijving 1" /></a>
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt12.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt12.jpg" alt="Meldpunt: lokalisatie" /></a>
+
+
+### Het zwarte gat
+
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt13.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt13.jpg" alt="Meldpunt: Bedankt" /></a>
+<a href="{{ site.baseurl }}/assets/2015-01-19/meldpunt14.jpg"><img src="{{ site.baseurl }}/assets/2015-01-19/thumbs/meldpunt14.jpg" alt="Meldpunt: Mail" /></a>
+
+- Observatie: Als je na een maand nog geen bericht hebt ontvangen moet je zelf nog eens contact opnemen met het meldpunt. Er is dus geen interne tracking, je melding wordt gewoon doorgestuurd naar de bevoegde diensten.
+- Hopelijk krijgen de bevoegde diensten meldingen zonder de magische toevoeging van de letters 'rn' en backslashes bij aanhalingstekens.
+- Mijn melding ging over een verkeerslicht, niet over een <em>defect</em> verkeerslicht.
