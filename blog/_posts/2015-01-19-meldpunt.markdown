@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meldpunt Fietspad-meldpunt"
+title:  "Meldpunt Fietspaden-meldpunt"
 date:   2015-01-19 23:15:00
 categories:
 published: true
